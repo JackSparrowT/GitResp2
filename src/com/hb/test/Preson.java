@@ -8,4 +8,5 @@ package com.hb.test;
  */
 public class Preson {
     private int age;
+    private String name;
 }
